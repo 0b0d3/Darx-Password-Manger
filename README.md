@@ -4,8 +4,6 @@ DARX PASS™ is an offline, encrypted, and sleek password manager built with PyS
 Designed for cybersecurity professionals, privacy freaks, and anyone who values **security without compromise**.
 
 > 🎯 Built by Abdullah Hussien (a.k.a. 0b0d3) – Founder of DARX Tech  
-> ✨ 100% written in Python, without AI-generated code.
-
 ---
 
 ## 🧠 Features
