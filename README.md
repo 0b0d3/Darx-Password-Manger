@@ -29,12 +29,13 @@ These files are **not** included in the repo to protect the user:
 vault_data.json
 
 ## 📊 GitHub Stats
-![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=0b0d3&show_icons=true&theme=tokyonight)
+
+![Abdullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=0b0d3&show_icons=true&theme=tokyonight&count_private=true)
 
 ## 🔥 Most Used Languages
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0b0d3&layout=compact&theme=tokyonight)
 
----
 
 ## 🚀 Getting Started
 
