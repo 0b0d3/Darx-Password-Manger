@@ -28,6 +28,11 @@ These files are **not** included in the repo to protect the user:
 .master.hash
 vault_data.json
 
+## 📊 GitHub Stats
+![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=0b0d3&show_icons=true&theme=tokyonight)
+
+## 🔥 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0b0d3&layout=compact&theme=tokyonight)
 
 ---
 
