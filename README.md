@@ -1,4 +1,4 @@
-# 🛡️ DARX PASS™ – Secure Password Manager
+# 🛡️Secure Password Manager
 
 DARX PASS™ is an offline, encrypted, and sleek password manager built with PySide6.  
 Designed for cybersecurity professionals, privacy freaks, and anyone who values **security without compromise**.
